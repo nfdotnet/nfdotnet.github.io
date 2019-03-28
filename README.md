@@ -8,6 +8,6 @@ Everyone is welcome, even if you only have an interest in programming or web dev
 
 Check back soon. 
 
-thanks to the awesome people [DiscountASP](http://www.discountasp.net/index.aspx?refcode=NFDOTNET), our original user group website is still available at http://old.nfdotnet.org
+thanks to the awesome people [DiscountASP](http://www.discountasp.net/index.aspx?refcode=NFDOTNET), our original user group website is still available [HERE](http://old.nfdotnet.org)
 
-and if you would like to do a bit of time travel visit archive.org cache of our old site https://web.archive.org/web/20120214042212/http://www.nfdotnet.org/
+and if you would like to do a bit of time travel visit archive.org cache of our old site [HERE](https://web.archive.org/web/20120214042212/http://www.nfdotnet.org/)
