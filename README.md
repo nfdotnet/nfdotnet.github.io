@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the North Florida .NET User Group
 
-You can use the [editor on GitHub](https://github.com/nfdotnet/nfdotnet.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our goal is to build a .NET community in and around the Lake City Florida (North Florida) area. If you are interested in programming or IT administration using the Microsoft .NET Framework, this is the place for you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our user group has been on a pretty long sabatical. We expect to start having monthly meetings again very soon, hopefully late April 2019. Then we PLAN to meet once a month in person and listen to a presentation and generally hang out and meet others interested in the power of .NET framework and supporting IT infrastructure. It is completely free to attend our meetings or join the group.
 
-### Markdown
+Everyone is welcome, even if you only have an interest in programming or web development. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nfdotnet/nfdotnet.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check back soon. 
