@@ -7,3 +7,7 @@ Our user group has been on a pretty long sabatical. We expect to start having mo
 Everyone is welcome, even if you only have an interest in programming or web development. 
 
 Check back soon. 
+
+thanks to the awesome people [DiscountASP](http://www.discountasp.net/index.aspx?refcode=NFDOTNET), our original user group website is still available at http://old.nfdotnet.org
+
+and if you would like to do a bit of time travel visit archive.org cache of our old site https://web.archive.org/web/20120214042212/http://www.nfdotnet.org/
